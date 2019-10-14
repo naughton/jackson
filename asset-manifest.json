@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jackson/static/css/main.dfca195d.chunk.css",
-    "main.js": "/jackson/static/js/main.b35f3529.chunk.js",
-    "main.js.map": "/jackson/static/js/main.b35f3529.chunk.js.map",
+    "main.js": "/jackson/static/js/main.292053ca.chunk.js",
+    "main.js.map": "/jackson/static/js/main.292053ca.chunk.js.map",
     "runtime-main.js": "/jackson/static/js/runtime-main.18bd75b1.js",
     "runtime-main.js.map": "/jackson/static/js/runtime-main.18bd75b1.js.map",
     "static/js/2.a22c8588.chunk.js": "/jackson/static/js/2.a22c8588.chunk.js",
     "static/js/2.a22c8588.chunk.js.map": "/jackson/static/js/2.a22c8588.chunk.js.map",
     "index.html": "/jackson/index.html",
-    "precache-manifest.4b88465a274d762e9ae70890fc48f07a.js": "/jackson/precache-manifest.4b88465a274d762e9ae70890fc48f07a.js",
+    "precache-manifest.d7ca28c30bb8856b2b18c038baa16d45.js": "/jackson/precache-manifest.d7ca28c30bb8856b2b18c038baa16d45.js",
     "service-worker.js": "/jackson/service-worker.js",
     "static/css/main.dfca195d.chunk.css.map": "/jackson/static/css/main.dfca195d.chunk.css.map",
     "static/media/logo.svg": "/jackson/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.18bd75b1.js",
     "static/js/2.a22c8588.chunk.js",
     "static/css/main.dfca195d.chunk.css",
-    "static/js/main.b35f3529.chunk.js"
+    "static/js/main.292053ca.chunk.js"
   ]
 }
